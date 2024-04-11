@@ -3,3 +3,4 @@ Gitの練習をします。
 .git status
 Git rm
 Git status
+Git diff
