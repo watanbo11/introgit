@@ -1,1 +1,3 @@
 Gitの練習をします。
+.git add
+.git status
